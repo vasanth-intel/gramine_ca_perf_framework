@@ -1,0 +1,5 @@
+---
+iterations: 1
+#exec_mode: ["native", "gramine-direct", "gramine-sgx"]
+exec_mode: ["gramine-sgx"]
+build_gramine: False
